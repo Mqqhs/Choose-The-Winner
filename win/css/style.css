@@ -1,0 +1,9 @@
+#countdown {
+    color:rgb(189, 19, 166);
+    padding: 10px;
+    border: solid;
+}
+
+#cards {
+    display: none;
+}
